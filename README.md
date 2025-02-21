@@ -1,6 +1,6 @@
 # Konnichiwa 👋
 <div align="center">
-  <img hight="300" width="700" alt="GIF" align="center" src="https://github.ibm.com/christiandieziv/christiandieziv/blob/main/assets/208593.gif">
+  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/ibm-Christian-Diez/ibm-Christian-Diez/blob/main/assets/208593.gif">
 </div>
 </br>
 <p align="center">
