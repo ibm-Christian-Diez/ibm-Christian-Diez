@@ -14,13 +14,13 @@
 
 </br>
 <p align="center">
-  <img src="https://github.ibm.com/ibm-Christian-Diez/ibm-Christian-Diez/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
-  <img src="https://github.ibm.com/ibm-Christian-Diez/ibm-Christian-Diez/blob/main/assets/icons/aws.png" alt="aws"  width="100" hight="50">
-  <img src="https://github.ibm.com/ibm-Christian-Diez/ibm-Christian-Diez/blob/main/assets/icons/azure.png" alt="azure" width="90" hight="50">
+  <img src="https://github.com/ibm-Christian-Diez/ibm-Christian-Diez/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
+  <img src="https://github.com/ibm-Christian-Diez/ibm-Christian-Diez/blob/main/assets/icons/aws.png" alt="aws"  width="100" hight="50">
+  <img src="https://github.com/ibm-Christian-Diez/ibm-Christian-Diez/blob/main/assets/icons/azure.png" alt="azure" width="90" hight="50">
 </p>
 <p align="center">
-<img src="https://github.ibm.com/ibm-Christian-Diez/ibm-Christian-Diez/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.ibm.com/ibm-Christian-Diez/ibm-Christian-Diez/blob/main/assets/icons/visualstudio_code.png" alt="vscode" width="180" hight="50">
+<img src="https://github.com/ibm-Christian-Diez/ibm-Christian-Diez/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/ibm-Christian-Diez/ibm-Christian-Diez/blob/main/assets/icons/visualstudio_code.png" alt="vscode" width="180" hight="50">
 </p>
 </br>
 
