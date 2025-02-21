@@ -29,6 +29,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rcjdiv/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://rcjdiv.github.io/portfolio/"><img width="32px" alt="rcjdiv" title="rcjdiv" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://rcjdiv.github.io/dieziv/"><img width="32px" alt="rcjdiv" title="rcjdiv" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
